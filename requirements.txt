@@ -32,7 +32,7 @@ dlib == 19.22.1
 efficientnet == 1.1.1
 
 # stylegan2-FineArtv1/dataset_tool.py: 170,913
-h5py == 3.2.1
+# h5py == 3.2.1
 
 # stylegan2-FineArtv1/projector.py: 14
 imageio == 2.9.0
