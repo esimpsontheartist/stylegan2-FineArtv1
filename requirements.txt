@@ -149,7 +149,7 @@ pyturbojpeg == 1.6.1
 requests == 2.9.1
 
 # stylegan2-FineArtv1/runway_model.py: 5
-runway == 2.4.2
+runway
 
 # stylegan2-FineArtv1/metrics/linear_separability.py: 15
 scikit_learn == 0.20.2
