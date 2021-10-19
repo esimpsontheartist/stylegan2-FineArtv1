@@ -2,7 +2,7 @@ import pickle
 import numpy as np
 import tensorflow as tf
 import dnnlib.tflib as tflib
-import runway
+import runway-python
 import os
 
 fmt = dict(func=tflib.convert_images_to_uint8, nchw_to_nhwc=True)
