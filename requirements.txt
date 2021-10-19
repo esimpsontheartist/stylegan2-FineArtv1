@@ -22,7 +22,7 @@ Keras_Applications == 1.0.8
 # stylegan2-FineArtv1/style_mixing.py: 17
 # stylegan2-FineArtv1/training/misc.py: 12,13
 # stylegan2-FineArtv1/training/training_loop.py: 14
-Pillow == 3.1.2
+Pillow
 
 # stylegan2-FineArtv1/encoder/perceptual_model.py: 112
 # stylegan2-FineArtv1/ffhq_dataset/landmarks_detector.py: 1
