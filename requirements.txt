@@ -107,7 +107,7 @@ opencv-contrib-python-headless == 4.5.3.56
 # stylegan2-FineArtv1/encode_images.py: 98
 # stylegan2-FineArtv1/encoder/perceptual_model.py: 196
 # stylegan2-FineArtv1/train_resnet.py: 10
-opencv-openvino-contrib-python == 4.1.1.26
+# opencv-openvino-contrib-python == 4.1.1.26
 
 # stylegan2-FineArtv1/dataset_tool.py: 389,597,632
 # stylegan2-FineArtv1/encode_images.py: 98
@@ -137,7 +137,7 @@ opencv-python-inference-engine == 2021.10.10
 # stylegan2-FineArtv1/encode_images.py: 98
 # stylegan2-FineArtv1/encoder/perceptual_model.py: 196
 # stylegan2-FineArtv1/train_resnet.py: 10
-opencvz-contrib-python == 4.1.1.26
+# opencvz-contrib-python == 4.1.1.26
 
 # stylegan2-FineArtv1/generate.py: 28
 opensimplex == 0.3
